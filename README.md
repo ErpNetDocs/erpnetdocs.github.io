@@ -2,7 +2,7 @@
 
 Explore the different aspects of the ERP.net Platform:
 
-* [Technical Documentation](https://docs.erp.net/tech)
+* [Technical Documentation](https://erpnetdocs.github.io/tech)
 The business logic of the ERP.net platform. Useful for advanced users, implementation consultants, developers, etc.
 
 * [Developer Documentation](https://erpnetdocs.github.io/dev)
