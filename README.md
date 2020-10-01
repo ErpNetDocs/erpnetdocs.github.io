@@ -8,5 +8,5 @@ The business logic of the ERP.net platform. Useful for advanced users, implement
 * [Developer Documentation](https://erpnetdocs.github.io/dev)
 Conceptual and reference information about developing applications that consume the ERP.net services.
 
-* [WinClient Documentation](https://docs.erp.net/winclient)
-Documentation of the ERP.net Windows Desktop Client.
+* [Domain Model Documentation](https://erpnetdocs.github.io/dev)
+Documentation of the ERP.net Domain Model and business rules.
