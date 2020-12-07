@@ -11,7 +11,7 @@ The business logic of the ERP.net platform.
 Useful for advanced users, implementation consultants, developers, etc.
 
 * [Windows Desktop Client](https://docs.erp.net/winclient) - 
-Information about the user interface and how to use the Windows Desktop Client.
+Information how to setup and use the Windows Desktop Client.
 
 * [Developer Documentation](https://docs.erp.net/dev) - 
 Conceptual and reference information about developing applications that consume the ERP.net services.
