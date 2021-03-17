@@ -8,6 +8,11 @@ Explore the different aspects of the ERP.net Platform.
 General information about the ERP.net platform and the main UI apps.
 Useful for prospective customers, partners, marketing research, etc.
 
+## Client Applications
+
+* [Windows Desktop Client](https://docs.erp.net/winclient) - 
+Information how to setup and use the Windows Desktop Client.
+
 ## Technical Information
 
 * [Technical Documentation](https://docs.erp.net/tech) - 
@@ -21,8 +26,3 @@ Intended for developers and software architects.
 * [Data Model Reference](https://docs.erp.net/model) - 
 Detailed reference documentation of the ERP.net data models.
 Intended for advanced advanced implementation consultants and developers.
-
-## Client Applications
-
-* [Windows Desktop Client](https://docs.erp.net/winclient) - 
-Information how to setup and use the Windows Desktop Client.
