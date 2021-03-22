@@ -13,6 +13,9 @@ Useful for prospective customers, partners, marketing research, etc.
 * [Windows Desktop Client](https://docs.erp.net/winclient) - 
 Information how to setup and use the Windows Desktop Client.
 
+* [Web Client BETA](https://docs.erp.net/webclient)
+Documentation of the web client, which is still in preview version.
+
 ## Technical Information
 
 * [Technical Documentation](https://docs.erp.net/tech) - 
