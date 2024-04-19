@@ -1,4 +1,4 @@
-# Welcome to ERP.net Docs
+# Welcome to ERP.net docs
 
 Explore the different aspects of the ERP.net Platform.
 
