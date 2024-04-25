@@ -1,4 +1,4 @@
-![alt text](https://github.com/ErpNetDocs/info/blob/main/logo.svg) # Welcome to ERP.net docs
+# ![alt text](https://github.com/ErpNetDocs/info/blob/main/logo-docs.svg) Welcome to ERP.net docs
 
 Explore the different aspects of the ERP.net Platform.
 
