@@ -1,4 +1,5 @@
-# ![logo-docs1](https://github.com/ErpNetDocs/erpnetdocs.github.io/blob/master/logo-docs1.png) Welcome to ERP.net docs
+# ![logo-docs1](https://github.com/ErpNetDocs/erpnetdocs.github.io/blob/master/logo-docs1.png) 
+# Welcome to ERP.net docs
 
 Explore the different aspects of the ERP.net Platform.
 
