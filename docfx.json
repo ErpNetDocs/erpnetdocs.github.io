@@ -1,0 +1,36 @@
+{
+  "build": {
+    "content": [
+      {
+        "files": [
+          "toc.yml",
+          "**.md",
+          "**/toc.yml"
+        ]
+      }
+    ],
+    "resource": [
+      {
+        "files": [ "images/**", "**.svg", "**.png" ]
+      }
+    ],
+    "dest": "docs",
+    "globalMetadata": {
+      "_appTitle": "ERP.net Edu Docs",
+      "_enableSearch": false
+    },
+    "globalMetadataFiles": [],
+    "fileMetadataFiles": [],
+    "template": [
+      "default",
+      "modern",
+      "templates/material"
+    ],
+    "postProcessors": ["ExtractSearchIndex"],
+    "markdownEngineName": "markdig",
+    "noLangKeyword": false,
+    "keepFileLink": false,
+    "cleanupCacheHistory": false,
+    "disableGitFeatures": true
+  }
+}
