@@ -22,6 +22,56 @@
     },
     {
       "type": "Resource",
+      "source_relative_path": "docs/docs/logo-docs.svg",
+      "output": {
+        "resource": {
+          "relative_path": "docs/docs/logo-docs.svg"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/docs/logo-docs1.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/docs/logo-docs1.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/docs/logo.svg",
+      "output": {
+        "resource": {
+          "relative_path": "docs/docs/logo.svg"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/docs/tmp/logo-docs.svg",
+      "output": {
+        "resource": {
+          "relative_path": "docs/docs/tmp/logo-docs.svg"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "docs/docs/tmp/logo-docs1.png",
+      "output": {
+        "resource": {
+          "relative_path": "docs/docs/tmp/logo-docs1.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
       "source_relative_path": "docs/logo-docs.svg",
       "output": {
         "resource": {
