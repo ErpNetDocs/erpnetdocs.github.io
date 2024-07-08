@@ -1,3 +1,3 @@
-# Welcome to the ERP.net Educational Documentation!
+# Central Documentation Page
 
-The documentation uses DocFX to build.
+This central documentation page serves as a gateway, providing links to various other documentation pages. It unifies all different documents, making it easy to navigate and access the information you need.
