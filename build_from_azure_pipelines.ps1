@@ -28,7 +28,7 @@ if ($lastexitcode -eq 1) {
 }
 
 Write-Host "Getting Latest Changes"
-git checkout main
+git checkout master
 git pull --rebase
 
 Write-Host "Building docfx"
@@ -38,4 +38,4 @@ Write-Host "Upload Changes to Github"
 git add -A
 $now = [System.DateTime]::Now.ToShortTimeString();
 git commit -m "Latest changes from buid bot: $now"
-git push ssh main
+git push ssh master
