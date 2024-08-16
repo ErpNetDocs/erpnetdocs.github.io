@@ -8,14 +8,15 @@
     ],
     "resource": [
       {
-        "files": [ "images/**", "**.svg", "**.png" ],
+        "files": [ "images/**", "**.svg", "**.png", "favicon.ico" ],
         "exclude": [ "docs/**/*.*" ]
       }
     ],
     "dest": "docs",
     "globalMetadata": {
       "_appTitle": "ERP.net Edu Docs",
-      "_enableSearch": false
+      "_enableSearch": false,
+      "_appFaviconPath": "favicon.ico"
     },
     "globalMetadataFiles": [],
     "fileMetadataFiles": [],
