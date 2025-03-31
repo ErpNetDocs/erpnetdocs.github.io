@@ -2,11 +2,11 @@
   "README.html": {
     "href": "README.html",
     "title": "Central Documentation Page | ERP.net Edu Docs",
-    "keywords": "Central Documentation Page This central documentation page serves as a gateway, providing links to various other documentation pages. It unifies all different documents, making it easy to navigate and access the information you need."
+    "summary": "Central Documentation Page This central documentation page serves as a gateway, providing links to various other documentation pages. It unifies all different documents, making it easy to navigate and access the information you need."
   },
   "index.html": {
     "href": "index.html",
     "title": "Welcome to ERP.net docs | ERP.net Edu Docs",
-    "keywords": "Welcome to ERP.net docs Explore the different aspects of the ERP.net Platform. Marketing & Sales Information Information Site - General information about the ERP.net platform and the main UI apps. Useful for prospective customers, partners, marketing research, etc. Technical Information Technical Documentation - The business logic of the ERP.net platform. Useful for advanced users, implementation consultants, developers, etc. Developer Documentation - Conceptual and reference information about developing applications that consume the ERP.net services. Intended for developers and software architects. Data Model Reference - Detailed reference documentation of the ERP.net data models. Intended for advanced advanced implementation consultants and developers. Client Applications Windows Desktop Client - Information how to setup and use the Windows Desktop Client. Web Client Documentation of the web and mobile client."
+    "summary": "Welcome to ERP.net docs Explore the different aspects of the ERP.net Platform. Marketing & Sales Information Information Site - General information about the ERP.net platform and the main UI apps. Useful for prospective customers, partners, marketing research, etc. Technical Information Technical Documentation - The business logic of the ERP.net platform. Useful for advanced users, implementation consultants, developers, etc. Developer Documentation - Conceptual and reference information about developing applications that consume the ERP.net services. Intended for developers and software architects. Data Model Reference - Detailed reference documentation of the ERP.net data models. Intended for advanced advanced implementation consultants and developers. Client Applications Windows Desktop Client - Information how to setup and use the Windows Desktop Client. Web Client Documentation of the web and mobile client."
   }
 }
